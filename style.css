@@ -20,10 +20,10 @@ font-family: montserrat;
     background-size: cover;
     background-attachment: fixed;
     position: relative;
-    z-index: 2;
+   
 }
 
-.hero::after {
+/* .hero::after {
     content: "";
     width: 100%;
     height: 100%;
@@ -31,12 +31,11 @@ font-family: montserrat;
     top: 0;
     left: 0;
     /* background-color: gray; */
-    z-index: -1;
-}
+/* } */
 
 ul li a:hover{
 color:coral;
-}
+} */
 
 .flowerImageRow{
 display:flex;
